@@ -20,3 +20,9 @@ The course introduces fundamental computer science concepts and programming skil
 - **Week 8:** HTML, CSS, JavaScript  
 - **Week 9:** Flask  
 - **Week 10:** The End (Final Project & Wrap-up)  
+
+## Resources
+
+- https://scratch.mit.edu/
+- https://cs50.ai/chat
+- https://manual.cs50.io/
